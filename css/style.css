@@ -13,6 +13,9 @@ h1, h2, h3, h4, h5{
 	color:#fff;
   font-weight: normal;
 }
+p{
+	color: #fff;
+}
 body{
 	background-color:#303030;
 	text-align:center;
