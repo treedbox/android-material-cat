@@ -4,7 +4,7 @@
 ![SVG Android Neko Cat](assets/android-7.1-neko-cat.svg)
 
 ## Online Test
-[https://github.com/treedbox/android-material-cat](https://github.com/treedbox/android-material-cat 'Android Material Cat')
+[https://treedbox.github.io/android-material-cat/](https://treedbox.github.io/android-material-cat/ 'Android Material Cat')
 
 ## Android 7.1 Easter Egg
 Based on a Android 7.1 Easter Egg called `Android Neko`
