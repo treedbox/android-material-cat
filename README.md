@@ -1,15 +1,15 @@
 # Android Material Cat
 > Android Material Cat, Click on each cat part to random change color.
 
-![SVG Android Neko Cat](assets/android-7.1-neko-cat.svg)
+![SVG Android Neko Cat](assets/android-7.0-neko-cat.svg)
 
 ## Online Test
 [https://treedbox.github.io/android-material-cat/](https://treedbox.github.io/android-material-cat/ 'Android Material Cat')
 
-## Android 7.1 Easter Egg
-Based on a Android 7.1 Easter Egg called `Android Neko`
+## Android 7.0 Easter Egg
+Based on a Android 7.0 Easter Egg called `Android Neko`
 
-![Android Neko](assets/android-7.1-neko.jpg)
+![Android Neko](assets/android-7.0-neko.jpg)
 
 ## Import
 Using `Treedbox Random Color`:
