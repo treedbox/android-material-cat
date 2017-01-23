@@ -9,6 +9,8 @@
 ## Android 7.0 Easter Egg
 Based on a Android 7.0 Easter Egg called `Android Neko`
 
+https://www.youtube.com/watch?v=U1NzniXruQo
+
 ![Android Neko](assets/android-7.0-neko.jpg)
 
 ## Import
