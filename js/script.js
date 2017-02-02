@@ -75,7 +75,7 @@ function downloadCat(e) {
         //listener image load
         img.addEventListener('load', () =>{
           //clear all canvas
-          c.clearRect(0, 0, canvas.width, canvas.height);�
+          c.clearRect(0, 0, canvas.width, canvas.height);
           //draw image
           c.drawImage(img, 0, 0);
           //convert canvas to blob
