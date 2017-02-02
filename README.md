@@ -1,10 +1,18 @@
 # Android Material Cat
 > Android Material Cat, Click on each cat part to random change color.
 
-![SVG Android Neko Cat](assets/android-7.0-neko-cat.svg)
+> Convert SVG to PNG
+
+> Download as PNG or SVG
 
 ## Online Test
 [https://treedbox.github.io/android-material-cat/](https://treedbox.github.io/android-material-cat/ 'Android Material Cat')
+
+## Click to Change Cat Color
+* Click on each cat part to random change color
+
+## Convert SVG to PNG
+* Download your colored Cat as image (PNG) or SVG file.
 
 ## Android 7.0 Easter Egg
 Based on a Android 7.0 Easter Egg called `Android Neko`
