@@ -1,0 +1,28 @@
+
+.bg{fill:#ffc107}
+.ear1left{fill:#FFDD00}
+.ear1right{fill:#FFDD00}
+.ear2right{fill:#ef9a9a}
+.ear2left{fill:#ef9a9a}
+.hair{fill:#000000}
+.head{fill:#FFDD00}
+.eyeright{fill:#000000}
+.eyeleft{fill:#000000}
+.nose{fill:#000000}
+.mouth{fill:#FFFFFF}
+.lips{fill:#000000}
+.collar{fill:#FF0000}
+.body{fill:#FFDD00}
+.chest{fill:#FFFFFF}
+.legright{fill:#FFDD00}
+.legrightshadow{fill:rgba(0, 0, 0, 0.2); pointer-events: none}
+.pataright{fill:#FFFFFF}
+.legbackright{fill:#FFDD00}
+.patabackright{fill:#FFFFFF}
+.legbackleft{fill:#FFDD00}
+.patabackleft{fill:#FFFFFF}
+.legleft{fill:#FFDD00}
+.pataleft{fill:#FFFFFF}
+.tail{fill:#FFDD00}
+.tailshadow{fill:rgba(0, 0, 0, 0.2); pointer-events: none}
+.tailtop{fill:#FFFFFF}

@@ -13,9 +13,6 @@ h1, h2, h3, h4, h5{
 	color:#fff;
   font-weight: normal;
 }
-p{
-	color: #fff;
-}
 body{
 	background-color:#303030;
 	text-align:center;
@@ -24,36 +21,39 @@ a{
   text-decoration: none;
   color: #fd0;
 }
-/*cat parts-----*/
-.bg{fill:#ffc107}
-.ear1left{fill:#FFDD00}
-.ear1right{fill:#FFDD00}
-.ear2right{fill:#ef9a9a}
-.ear2left{fill:#ef9a9a}
-.hair{fill:#000000}
-.head{fill:#FFDD00}
-.eyeright{fill:#000000}
-.eyeleft{fill:#000000}
-.nose{fill:#000000}
-.mouth{fill:#FFFFFF}
-.lips{fill:#000000}
-.collar{fill:#FF0000}
-.body{fill:#FFDD00}
-.chest{fill:#FFFFFF}
-.legright{fill:#FFDD00}
-.legrightshadow{fill:rgba(0, 0, 0, 0.2); pointer-events: none}
-.pataright{fill:#FFFFFF}
-.legbackright{fill:#FFDD00}
-.patabackright{fill:#FFFFFF}
-.legbackleft{fill:#FFDD00}
-.patabackleft{fill:#FFFFFF}
-.legleft{fill:#FFDD00}
-.pataleft{fill:#FFFFFF}
-.tail{fill:#FFDD00}
-.tailshadow{fill:rgba(0, 0, 0, 0.2); pointer-events: none}
-.tailtop{fill:#FFFFFF}
-/*-----cat parts*/
-
-.randomcolor{
+svg{
+  fill-rule:evenodd;
+}
+.randomcolorfill{
   cursor: pointer;
+}
+a.savecat-svg,
+a.savecat-png{
+  line-height: 30px;
+  padding: 0 10px 0 30px;
+  background-position: left top;
+  background-size: 30px;
+  background-repeat: no-repeat;
+  cursor: pointer;
+  background-color: #fff;
+  display: inline-block;
+  color: #000;
+}
+a.savecat-svg:hover,
+a.savecat-png:hover{
+  background-position: left center;
+  background-color: #e91e63;
+  color: #ccc;
+}
+a.savecat-svg:active,
+a.savecat-png:active{
+  background-position: left bottom;
+  background-color: #c2185b;
+  color: #000;
+}
+.savecat-png{
+  background-image: url('../images/heart4.svg');
+}
+.savecat-svg{
+  background-image: url('../images/code.svg');
 }
