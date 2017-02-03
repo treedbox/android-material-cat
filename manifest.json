@@ -1,0 +1,23 @@
+{
+  "name": "Android Material Cat",
+  "short_name": "Material Cat",
+  "start_url": "index.html",
+  "icons": [
+    {
+      "src": "icon/android-material-cat.png",
+      "sizes": "450x450",
+      "type": "image/png",
+      "density": 4.0
+    }
+  ],
+  "background_color": "#673AB7",
+  "theme_color": "#FFDD00",
+  "display": "standalone",
+  "orientation": "portrait",
+  "related_applications": [
+    {
+    "platform": "play",
+    "id": "com.treedbox.android.material.cat"
+    }
+  ]
+}

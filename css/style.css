@@ -7,6 +7,7 @@ html,body{
 	margin:0;
 	padding:0;
 	height:100%;
+  width: 100%;
 }
 h1, h2, h3, h4, h5{
 	margin-top:0;
@@ -15,6 +16,7 @@ h1, h2, h3, h4, h5{
 }
 body{
 	background-color:#303030;
+  color: #fff;
 	text-align:center;
 }
 a{
@@ -23,21 +25,26 @@ a{
 }
 svg{
   fill-rule:evenodd;
+  width: 100%;
+  max-width: 450px;
+  height: auto;
 }
 .randomcolorfill{
   cursor: pointer;
 }
 a.savecat-svg,
 a.savecat-png{
-  line-height: 30px;
+  line-height: 50px;
   padding: 0 10px 0 30px;
-  background-position: left top;
+  background-position: left top 10px;
   background-size: 30px;
   background-repeat: no-repeat;
   cursor: pointer;
   background-color: #fff;
   display: inline-block;
   color: #000;
+  transition: .3s all;
+  margin-bottom: 5px;
 }
 a.savecat-svg:hover,
 a.savecat-png:hover{
@@ -47,7 +54,7 @@ a.savecat-png:hover{
 }
 a.savecat-svg:active,
 a.savecat-png:active{
-  background-position: left bottom;
+  background-position: left bottom 10px;
   background-color: #c2185b;
   color: #000;
 }
@@ -56,4 +63,27 @@ a.savecat-png:active{
 }
 .savecat-svg{
   background-image: url('../images/code.svg');
+}
+.disabled{
+  opacity: .5;
+  pointer-events: none;
+  transform: scale(.95);
+}
+strong::selection,
+a.savecat-svg::selection,
+a.savecat-png::selection{
+  pointer-events: none;
+}
+.save-message{
+  transition: .3s all;
+}
+.show{
+  color: #ccc;
+}
+.hide{
+  transform: scale(0);
+  margin: 0;
+}
+.hide::selection{
+  pointer-events: none;
 }
