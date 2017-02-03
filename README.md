@@ -1,11 +1,15 @@
-# Android Material Cat
+# Android Material Cat (PWA)
 > Android Material Cat, Click on each cat part to random change color.
+> PWA - Progressive Web App.
 
 > Convert SVG to PNG
 
 > Download as PNG or SVG
 
 ## Online Test
+Android: Access from Google Chrome and Add this PWA to your Home Screen
+![Android Neko](assets/android-material-cat-pwa.png)
+
 [https://treedbox.github.io/android-material-cat/](https://treedbox.github.io/android-material-cat/ 'Android Material Cat')
 
 ## Click to Change Cat Color
@@ -24,6 +28,12 @@ https://www.youtube.com/watch?v=U1NzniXruQo
 ## Import
 Using `Treedbox Random Color`:
 https://github.com/treedbox/treedbox-random-color
+
+To apply random colors
+
+Using `instantapp for Treedbox`:
+https://github.com/treedbox/instantapp
+To Turn this project in a Progressive Web App
 
 ## Tested
 **Google Chrome 55**
