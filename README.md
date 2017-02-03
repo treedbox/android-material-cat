@@ -26,13 +26,16 @@ https://www.youtube.com/watch?v=U1NzniXruQo
 ![Android Neko](assets/android-7.0-neko.jpg)
 
 ## Import
-Using `Treedbox Random Color`:
+#### Using `Treedbox Random Color`:
+
 https://github.com/treedbox/treedbox-random-color
 
 To apply random colors
 
-Using `instantapp for Treedbox`:
+#### Using `instantapp for Treedbox`:
+
 https://github.com/treedbox/instantapp
+
 To Turn this project in a Progressive Web App
 
 ## Tested
