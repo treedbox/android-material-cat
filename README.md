@@ -43,6 +43,8 @@ To Turn this project in a Progressive Web App
 
 **Firefox 50.1.0**
 
+**Android 7.1.1**
+
 ## Meta
 Front-End Developer: [Jonimar Marques Policarpo](http://linkedin.com/in/treedbox 'LinkEdin')
 
